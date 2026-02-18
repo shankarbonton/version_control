@@ -1,1 +1,1 @@
-db config
+tests db config
